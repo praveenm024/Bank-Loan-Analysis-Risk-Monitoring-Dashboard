@@ -58,7 +58,8 @@ As the analyst on this project, the focus was on three goals — quantifying goo
 
 Implication: Topline portfolio metrics appear healthy. The risk is concentrated beneath the surface in specific segments.
 
-![Overview Dashboard](assets/overview_dashboard.png)
+<h3>Dashboard Overview</h3>
+<img src="image/overview.png" width="900">
 
 ---
 
@@ -73,7 +74,7 @@ Implication: Topline portfolio metrics appear healthy. The risk is concentrated 
 - Bad loans recover only **$37.3M on $65.5M funded** — $28.2M unrecovered exposure
 - The bad loan rate of **13.82%** means 1 in every 7 loans in this portfolio ends in charge-off
 
-![Summary Dashboard](assets/summary_dashboard.png)
+![Summary Dashboard](image/summary.png)
 
 ---
 
